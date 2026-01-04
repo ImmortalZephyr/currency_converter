@@ -18,7 +18,7 @@ A professional command-line currency converter with real-time exchange rates for
 ## 💻 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/currency-converter-pro.git
+git clone https://github.com/ImmortalZephyr/currency-converter-pro.git
 cd currency-converter-pro
 
 # Install dependencies
