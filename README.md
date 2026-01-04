@@ -73,4 +73,4 @@ Pull requests are welcome! Feel free to contribute.
 
 ## 📧 Contact
 
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Telegram: [Juan Bolsa](https://t.me/kingvon008)
